@@ -1,0 +1,93 @@
+/*SPLASH*/
+#splash-content {
+	width: 924px;
+	min-height: 517px;
+	display: block;
+	overflow: hidden;
+	background: url('I301/bg_splash.jpg') no-repeat;
+}
+#title-area {
+	font-family: "Gotham Bold", sans serif;
+	text-align: center;
+	color: #276273;
+	padding: 202px 0 0 295px;
+}
+/*#manualpop {
+	opacity: 0;
+}*/
+#launch-btn-en {
+	font-family: "Gotham Bold", sans serif;
+	font-size: 20px;
+	text-align: center;
+	text-decoration: none;
+	color: #276273;
+	/*padding: 197px 2px 0px 191px;*/
+
+
+	/*padding: 197px 150px 4px 191px;*/
+	background: url('I301/start.png') no-repeat;
+	/*background-position: 148px 190px;*/
+	
+
+	display:block;
+	background-position: 172px 67px;
+	padding:70px 0 10px 220px;
+}
+#launch-btn-fr {
+	font-family: "Gotham Bold", sans serif;
+	font-size: 20px;
+	text-align: center;
+	text-decoration: none;
+	color: #276273;
+	/*padding: 197px 2px 0px 86px;*/
+	/*padding: 197px 150px 4px 86px;*/
+	background: url('I301/start.png') no-repeat;
+	/*background-position: 43px 190px;*/
+
+	display:block;
+	background-position: 35px 67px;
+	padding:70px 0 10px 90px;
+}
+
+/* ----------------------------------------------------------------------------
+----------------------------------------SPLASH
+---------------------------------------------------------------------------- */
+
+
+#splashframetext {
+	width: 924px;
+	min-height: 668px;
+	display: block;
+	overflow: hidden;
+	background: url('I301/bg_splash.jpg') no-repeat;
+}
+.obfuscated {
+	display: none;
+}
+/*#manualpop {
+	margin: 8% 5%;
+}*/
+/*#manualpop>h1 {
+	margin: 5% 2% 0% 5%;
+	font-family: "Gotham Bold", sans-serifs;
+	text-align: right;
+}*/
+/*#manualpop>span {
+	visibility: hidden;
+}*/
+/*#manualpop>a {
+	background: url('I301/bg_arrowsplash.jpg') 12px 12px no-repeat;
+	display: block;
+	color: #427daa;
+	text-decoration: none;
+	font-weight: 600;
+	font-size: 1.3em;
+	font-family: "Gotham Book", sans-serifs;
+	text-align: right;
+	float: right;
+	padding: 12px 5px 12px 35px;
+	margin-right: 2%;
+}*/
+/*#manualpop>a:hover {
+	color: #65a4d5;
+}*/

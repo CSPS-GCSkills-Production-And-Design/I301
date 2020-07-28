@@ -1,0 +1,33 @@
+<section role="content" class="col-md-8">
+<h2>Qu'est-ce que c'est?</h2>
+<p>La Plateforme d’apprentissage en ligne EFPC est un catalogue en ligne qui répertorie les «&nbsp;widgets&nbsp;» et les quiz utilisés dans la conception de nos cours. Ce répertoire va permettre au concepteur de cours en ligne d’aller à un seul endroit et de trouvé toutes les possibilités qu’ils ont pour rendre leurs cours plus divertissent et plus enrichissant pour l’apprenant.</p>
+<h2>Comment utiliser la Plateforme d’apprentissage en ligne EFPC</h2>
+
+<dl>
+  <dt>Portfolio des thèmes</dt>
+	<dd>Dans cette section vous serez en mesure de découvrir les différents thèmes que notre équipe aura créé au courant des années et de les voir dans différents format (écran, mobile, etc.)</dd>
+  <dt>Catalogue d'interactivité</dt>
+	<dd>La deuxième section, le Catalogue d'interactivité est la section qui regroupe tous les «&nbsp;widgets&nbsp;» que nous croyons utile et pertinent pour la conception d’un cours en ligne. Certains ont été choisi à l'intérieur même du <em>Web Experience Toolkit</em> (WET), tandis que d'autre ont été créé à l'intérieur même de l'équipe pour répondre à des besoins plus spécifiques de nos clients.</dd>
+  <dt>Exemples de quiz</dt>
+	<dd>La troisième section, exemples de quiz, englobe tous les types de quiz que nous avons tirés de cours qui présentaient des niveaux de difficulté différents. Cette section offre une multitude de possibilités en ce qui concerne le suivi des résultats de l’apprenant et la rétroaction. Elle permet aux concepteurs de choisir eux-mêmes le type de rétroaction qu'ils désirent offrir à l'apprenant ainsi que les quiz qu'ils souhaitent utiliser.</dd>
+  <dt>Exemples de dispositions</dt>
+	<dd>Enfin, cette section fournit des concepteurs pédagogiques avec des exemples de dispositions qui peuvent être utilisés pour leur contenu de cours. Ces mises en page peuvent être ajoutés à la section «instructions pour développeur" de leurs storyboards.</dd>
+</dl>
+</section>
+
+<section class="col-md-4">
+	<div class="encadrage">
+    	<span class="pointer icon"></span><h4 class="pointer">Ce que vous apprendrez</h4>
+
+    <p>La plateforme d'apprentissage en ligne EFPC va vous aider à mieux comprendre les interactions présente dans BOEW 4.</p>
+    <p><a href="#" onClick="fNav('m2-1');return false;" class="internal">Catalogue des interactivité</a></p>
+	</div>
+	
+	
+	<div class="encadrage">
+	<span class="pointer icon"></span><h4 class="pointer">L'équipe de développement LTS travail pour vous!</h4>
+		<img src="content/medias/images/ltsteam.jpg" alt="lts team" width="100%">
+		<p>Laissez-nous vous assister pour vos besoin d'apprentissage en ligne!</p>
+	</div>
+	
+</section>

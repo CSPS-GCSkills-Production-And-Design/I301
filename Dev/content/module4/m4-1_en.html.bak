@@ -1,0 +1,565 @@
+<h1 class="wb-inv">Final Quiz</h1>
+<div class="col-md-8" role="content">
+	<!--start activity-->
+	<div class="qs-elearning-activity" data-activity-type="standard" id="a1" data-force-final-recap="true" data-trigger-completion-score="80" style="display:none;position:relative;">
+	<div style="position:absolute;top:-15px;left:10px;"><img style="width:50px;height:56px;" src="content/medias/images/ico_quizribbon.png"></div>
+		<!--start exercise-->
+		<div class="qs-exercise" data-question-type="type-1" id="a1e1" style="padding-top:25px;">
+			<!--start question-->
+			<div class="qs-question" id="a1e1q1">
+				<fieldset>
+					<!-- QUESTION MAIN TEXT -->
+					<div class="qs-text">
+						<legend><h2>Question&nbsp;1</h2></legend>
+						<h3>How should you name a document when you save it in a corporate repository?</h3>
+						<p>Select the correct answer.</p>
+					</div>
+					<!-- QUESTION ANSWERS -->
+					<div class="qs-answers">
+						<ul>
+							<li><input class="wa" id="q1-a" name="q1" type="radio"><label for="q1-a">A.&nbsp;Date first, followed by the title of the document.</label></li>
+							<li><input class="wa" id="q1-b" name="q1" type="radio"><label for="q1-b">B.&nbsp;Title of the document first, followed by the date.</label></li>
+							<li><input class="wa" id="q1-c" name="q1" type="radio"><label for="q1-c">C.&nbsp;Title of the document first, followed by your initials.</label></li>
+							<li><input class="ra" id="q1-d" name="q1" type="radio"><label for="q1-d">D.&nbsp;According to your organization's naming conventions.</label></li>
+							<li><input class="wa" id="q1-e" name="q1" type="radio"><label for="q1-e">E.&nbsp;Any of the above that makes the most sense to you.</label></li>
+						</ul>
+						<p><input class="qs-submit btn btn-default" type="button" value="Submit"></p>
+					</div>
+					<!-- QUESTION FEEDBACK -->
+					<div class="qs-feedback">
+						<div class="qs-right">
+							<p><span class="glyphicon glyphicon-ok"></span> Correct</p>
+						</div>
+						<div class="qs-wrong">
+							<p><span class="glyphicon glyphicon-remove"></span> Incorrect. The correct answer is&nbsp;D.</p>
+						</div>
+						<div class="qs-generic">
+							<p>When you save and organize information resources of business value in a corporate repository, you should follow your organization's naming conventions. It will be easy to find and share them when required.</p>
+						</div>
+					</div>
+				</fieldset>
+			</div><!--end question-->
+
+			<!--start question-->
+			<div class="qs-question" id="a1e1q2">
+				<fieldset>
+					<!-- QUESTION MAIN TEXT -->
+					<div class="qs-text">
+						<legend><h2>Question&nbsp;2</h2></legend>
+						<h3>According to the Open Government initiatives, all government information and data are open to the public, thus allowing Canadians to access the information they need. True or false?</h3>
+						<p class="wb-inv">Select the correct answer.</p>
+					</div>
+					<!-- QUESTION ANSWERS -->
+					<div class="qs-answers">
+						<ul>
+							<li><input class="wa" id="q2-a" name="q2" type="radio"><label for="q2-a">True</label></li>
+							<li><input class="ra" id="q2-b" name="q2" type="radio"><label for="q2-b">False</label></li>
+						</ul>
+						<p><input class="qs-submit btn btn-default" type="button" value="Submit"></p>
+					</div>
+					<!-- QUESTION FEEDBACK -->
+					<div class="qs-feedback">
+						<div class="qs-right">
+                        <p><span class="glyphicon glyphicon-ok"></span> Correct</p>
+						</div>
+						<div class="qs-wrong">
+                        <p><span class="glyphicon glyphicon-remove"></span> Incorrect</p>
+						</div>
+						<div class="qs-generic">
+							<p>The Government of Canada supports the "open-by-default" culture to ensure that all Canadians have access to the information they need. However, there are exceptions to the open-by-default principle, including personal information, Cabinet confidences, etc.</p>
+						</div>
+					</div>
+				</fieldset>
+			</div><!--end question-->
+
+			<!--start question-->
+			<div class="qs-question" id="a1e1q3">
+				<fieldset>
+					<!-- QUESTION MAIN TEXT -->
+					<div class="qs-text">
+						<legend><h2>Question&nbsp;3</h2></legend>
+						<h3>Information that you as a government employee create has value only for the Government of Canada. True or false?</h3>
+						<p class="wb-inv">Select the correct answer.</p>
+					</div>
+					<!-- QUESTION ANSWERS -->
+					<div class="qs-answers">
+						<ul>
+							<li><input class="wa" id="q3-a" name="q3" type="radio"><label for="q3-a">True</label></li>
+							<li><input class="ra" id="q3-b" name="q3" type="radio"><label for="q3-b">False</label></li>
+						</ul>
+						<p><input class="qs-submit btn btn-default" type="button" value="Submit"></p>
+					</div>
+					<!-- QUESTION FEEDBACK -->
+					<div class="qs-feedback">
+						<div class="qs-right">
+                        <p><span class="glyphicon glyphicon-ok"></span> Correct</p>
+						</div>
+						<div class="qs-wrong">
+                        <p><span class="glyphicon glyphicon-remove"></span> Incorrect</p>
+						</div>
+						<div class="qs-generic">
+							<p>Information that you as a government employee create has value not only for the Government of Canada, but for all Canadians who benefit from government programs and services.</p>
+						</div>
+					</div>
+				</fieldset>
+			</div><!--end question-->
+
+			<!--start question-->
+			<div class="qs-question" id="a1e1q4">
+				<fieldset>
+					<!-- QUESTION MAIN TEXT -->
+					<div class="qs-text">
+						<legend><h2>Question&nbsp;4</h2></legend>
+						<h3>Which of the following statements is characteristic of transitory information?</h3>
+						<p>Select the correct answer.</p>
+					</div>
+					<!-- QUESTION ANSWERS -->
+					<div class="qs-answers">
+						<ul>
+							<li><input class="wa" id="q4-a" name="q4" type="radio"><label for="q4-a">A.&nbsp;It serves as proof of a decision-making process.</label></li>
+							<li><input class="ra" id="q4-b" name="q4" type="radio"><label for="q4-b">B.&nbsp;It consists of drafts and copies used solely for reference purposes.</label></li>
+							<li><input class="wa" id="q4-c" name="q4" type="radio"><label for="q4-c">C.&nbsp;It contains information of long-term or historical value.</label></li>
+							<li><input class="wa" id="q4-d" name="q4" type="radio"><label for="q4-d">D.&nbsp;It supports your organization's ongoing operations or business activities.</label></li>
+							<li><input class="wa" id="q4-e" name="q4" type="radio"><label for="q4-e">E.&nbsp;It facilitates the delivery of internal and external programs and services.</label></li>
+						</ul>
+						<p><input class="qs-submit btn btn-default" type="button" value="Submit"></p>
+					</div>
+					<!-- QUESTION FEEDBACK -->
+					<div class="qs-feedback">
+						<div class="qs-right">
+							<p><span class="glyphicon glyphicon-ok"></span> Correct</p>
+						</div>
+						<div class="qs-wrong">
+							<p><span class="glyphicon glyphicon-remove"></span> Incorrect. The correct answer is&nbsp;B.</p>
+						</div>
+						<div class="qs-generic">
+							<p>Information resources that are used as drafts or copies for reference purposes or containing information of short-term value are transitory.</p>
+						</div>
+					</div>
+				</fieldset>
+			</div><!--end question-->
+
+			<!--start question-->
+			<div class="qs-question" id="a1e1q5">
+				<fieldset>
+					<!-- QUESTION MAIN TEXT -->
+					<div class="qs-text">
+						<legend><h2>Question&nbsp;5</h2></legend>
+						<h3>You are responsible for saving all the information resources you handle in the appropriate corporate repository. True or false?</h3>
+						<p class="wb-inv">Select the correct answer.</p>
+					</div>
+					<!-- QUESTION ANSWERS -->
+					<div class="qs-answers">
+						<ul>
+							<li><input class="wa" id="q5-a" name="q5" type="radio"><label for="q5-a">True</label></li>
+							<li><input class="ra" id="q5-b" name="q5" type="radio"><label for="q5-b">False</label></li>
+						</ul>
+						<p><input class="qs-submit btn btn-default" type="button" value="Submit"></p>
+					</div>
+					<!-- QUESTION FEEDBACK -->
+					<div class="qs-feedback">
+						<div class="qs-right">
+                        <p><span class="glyphicon glyphicon-ok"></span> Correct</p>
+						</div>
+						<div class="qs-wrong">
+                        <p><span class="glyphicon glyphicon-remove"></span> Incorrect</p>
+						</div>
+						<div class="qs-generic">
+							<p>Not all information is created equal. You must keep information resources that have business value. Some transitory information could also be kept (for sharing purposes or when starting a draft document) in the corporate repository, but it is your responsibility to delete it once it is no longer required.</p>
+						</div>
+					</div>
+				</fieldset>
+			</div><!--end question-->
+
+			<!--start question-->
+			<div class="qs-question" id="a1e1q6">
+				<fieldset>
+					<!-- QUESTION MAIN TEXT -->
+					<div class="qs-text">
+						<legend><h2>Question&nbsp;6</h2></legend>
+						<h3>Brian is a member of a committee that uses an internal wiki to work collaboratively and to post its meetings' records of decisions. Brian doesn't need to take the additional step of saving the records of decision in GCDOCS, which is the designated corporate repository for his organization. True or false?</h3>
+						<p class="wb-inv">Select the correct answer.</p>
+					</div>
+					<!-- QUESTION ANSWERS -->
+					<div class="qs-answers">
+						<ul>
+							<li><input class="wa" id="q6-a" name="q6" type="radio"><label for="q6-a">True</label></li>
+							<li><input class="ra" id="q6-b" name="q6" type="radio"><label for="q6-b">False</label></li>
+						</ul>
+						<p><input class="qs-submit btn btn-default" type="button" value="Submit"></p>
+					</div>
+					<!-- QUESTION FEEDBACK -->
+					<div class="qs-feedback">
+						<div class="qs-right">
+                        <p><span class="glyphicon glyphicon-ok"></span> Correct</p>
+						</div>
+						<div class="qs-wrong">
+                        <p><span class="glyphicon glyphicon-remove"></span> Incorrect</p>
+						</div>
+						<div class="qs-generic">
+							<p>Records of decision of meetings are considered information resources of business value and therefore need to be saved in an appropriate corporate repository, which in this case is GCDOCS. An internal wiki is not considered an appropriate corporate repository.</p>
+						</div>
+					</div>
+				</fieldset>
+			</div><!--end question-->
+
+			<!--start question-->
+			<div class="qs-question" id="a1e1q7">
+				<fieldset>
+					<!-- QUESTION MAIN TEXT -->
+					<div class="qs-text">
+						<legend><h2>Question&nbsp;7</h2></legend>
+						<h3>Pierre receives an email from his manager asking for his comments on a presentation drafted for an upcoming meeting with internal stakeholders. Pierre replies to the email with his suggestions. For Pierre, this email (a request and a reply) is transitory information. True or false?</h3>
+						<p class="wb-inv">Select the correct answer.</p>
+					</div>
+					<!-- QUESTION ANSWERS -->
+					<div class="qs-answers">
+						<ul>
+							<li><input class="ra" id="q7-a" name="q7" type="radio"><label for="q7-a">True</label></li>
+							<li><input class="wa" id="q7-b" name="q7" type="radio"><label for="q7-b">False</label></li>
+						</ul>
+						<p><input class="qs-submit btn btn-default" type="button" value="Submit"></p>
+					</div>
+					<!-- QUESTION FEEDBACK -->
+					<div class="qs-feedback">
+						<div class="qs-right">
+                        <p><span class="glyphicon glyphicon-ok"></span> Correct</p>
+						</div>
+						<div class="qs-wrong">
+                        <p><span class="glyphicon glyphicon-remove"></span> Incorrect</p>
+						</div>
+						<div class="qs-generic">
+							<p>In this context, the manager is responsible for the task, and Pierre was asked for comments only. This email has business value for the manager, but is transitory information for Pierre.</p>
+						</div>
+					</div>
+				</fieldset>
+			</div><!--end question-->
+
+			<!--start question-->
+			<div class="qs-question" id="a1e1q8">
+				<fieldset>
+					<!-- QUESTION MAIN TEXT -->
+					<div class="qs-text">
+						<legend><h2>Question&nbsp;8</h2></legend>
+						<h3>Which of the following are considered transitory information and can therefore be deleted?</h3>
+						<p>Select the correct answer.</p>
+					</div>
+					<!-- QUESTION ANSWERS -->
+					<div class="qs-answers">
+						<ul>
+							<li><input class="wa" id="q8-a" name="q8" type="radio"><label for="q8-a">A.&nbsp;Instant messages documenting decisions on an active project</label></li>
+							<li><input class="wa" id="q8-b" name="q8" type="radio"><label for="q8-b">B.&nbsp;Presentations used for an active project</label></li>
+							<li><input class="wa" id="q8-c" name="q8" type="radio"><label for="q8-c">C.&nbsp;Final budget documents</label></li>
+							<li><input class="wa" id="q8-d" name="q8" type="radio"><label for="q8-d">D.&nbsp;Emails containing decisions made on a recently-completed project</label></li>
+							<li><input class="ra" id="q8-e" name="q8" type="radio"><label for="q8-e">E.&nbsp;Drafts and working materials retained for reference purposes only</label></li>
+						</ul>
+						<p><input class="qs-submit btn btn-default" type="button" value="Submit"></p>
+					</div>
+					<!-- QUESTION FEEDBACK -->
+					<div class="qs-feedback">
+						<div class="qs-right">
+							<p><span class="glyphicon glyphicon-ok"></span> Correct</p>
+						</div>
+						<div class="qs-wrong">
+							<p><span class="glyphicon glyphicon-remove"></span> Incorrect. The correct answer is&nbsp;E.</p>
+						</div>
+						<div class="qs-generic">
+							<p>Drafts, notes, and working materials for reference purposes are only used for a limited period of time to ensure the completion of a routine action or the preparation of information resources of business value. Therefore, they are considered transitory and are not required by your organization.</p>
+						</div>
+					</div>
+				</fieldset>
+			</div><!--end question-->
+
+			<!--start question-->
+			<div class="qs-question" id="a1e1q9">
+				<fieldset>
+					<!-- QUESTION MAIN TEXT -->
+					<div class="qs-text">
+						<legend><h2>Question&nbsp;9</h2></legend>
+						<h3>Julie is leaving her current position for a two&#8209;year assignment with another organization. It is the responsibility of an information management specialist to clean up, delete, and organize the paper and electronic documents that Julie leaves behind. True or false?</h3>
+						<p class="wb-inv">Select the correct answer.</p>
+					</div>
+					<!-- QUESTION ANSWERS -->
+					<div class="qs-answers">
+						<ul>
+							<li><input class="wa" id="q9-a" name="q9" type="radio"><label for="q9-a">True</label></li>
+							<li><input class="ra" id="q9-b" name="q9" type="radio"><label for="q9-b">False</label></li>
+						</ul>
+						<p><input class="qs-submit btn btn-default" type="button" value="Submit"></p>
+					</div>
+					<!-- QUESTION FEEDBACK -->
+					<div class="qs-feedback">
+						<div class="qs-right">
+                        <p><span class="glyphicon glyphicon-ok"></span> Correct</p>
+						</div>
+						<div class="qs-wrong">
+                        <p><span class="glyphicon glyphicon-remove"></span> Incorrect</p>
+						</div>
+						<div class="qs-generic">
+							<p>When employees leave their positions (either temporarily or permanently), it is their responsibility to follow the internal policies for the administrative closure of the business processes, organize and file information of business value accordingly, and properly destroy or delete all transitory information.</p>
+						</div>
+					</div>
+				</fieldset>
+			</div><!--end question-->
+
+			<!--start question-->
+			<div class="qs-question" id="a1e1q10">
+				<fieldset>
+					<!-- QUESTION MAIN TEXT -->
+					<div class="qs-text">
+						<legend><h2>Question&nbsp;10</h2></legend>
+						<h3>What determines the value and significance of an information resource?</h3>
+						<p>Select the correct answer.</p>
+					</div>
+					<!-- QUESTION ANSWERS -->
+					<div class="qs-answers">
+						<ul>
+							<li><input class="wa" id="q10-a" name="q10" type="radio"><label for="q10-a">A.&nbsp;Type</label></li>
+							<li><input class="wa" id="q10-b" name="q10" type="radio"><label for="q10-b">B.&nbsp;Format</label></li>
+							<li><input class="ra" id="q10-c" name="q10" type="radio"><label for="q10-c">C.&nbsp;Content</label></li>
+							<li><input class="wa" id="q10-d" name="q10" type="radio"><label for="q10-d">D.&nbsp;Origin</label></li>
+							<li><input class="wa" id="q10-e" name="q10" type="radio"><label for="q10-e">E.&nbsp;All of the above</label></li>
+						</ul>
+						<p><input class="qs-submit btn btn-default" type="button" value="Submit"></p>
+					</div>
+					<!-- QUESTION FEEDBACK -->
+					<div class="qs-feedback">
+						<div class="qs-right">
+							<p><span class="glyphicon glyphicon-ok"></span> Correct</p>
+						</div>
+						<div class="qs-wrong">
+							<p><span class="glyphicon glyphicon-remove"></span> Incorrect. The correct answer is&nbsp;C.</p>
+						</div>
+						<div class="qs-generic">
+							<p>One type, one format, or one source is not necessarily more significant than another. It is the content within an information resource that determines its value and significance.</p>
+						</div>
+					</div>
+				</fieldset>
+			</div><!--end question-->
+
+			<!--start question-->
+			<div class="qs-question" id="a1e1q11">
+				<fieldset>
+					<!-- QUESTION MAIN TEXT -->
+					<div class="qs-text">
+						<legend><h2>Question&nbsp;11</h2></legend>
+						<h3>Simon has received an Access to Information request and is searching through relevant records. He identifies several emails of a transitory nature related to this request that he has kept. Because these email messages contain transitory information, Simon doesn't need to disclose them and can delete them. True or false?</h3>
+						<p class="wb-inv">Select the correct answer.</p>
+					</div>
+					<!-- QUESTION ANSWERS -->
+					<div class="qs-answers">
+						<ul>
+							<li><input class="wa" id="q11-a" name="q11" type="radio"><label for="q11-a">True</label></li>
+							<li><input class="ra" id="q11-b" name="q11" type="radio"><label for="q11-b">False</label></li>
+						</ul>
+						<p><input class="qs-submit btn btn-default" type="button" value="Submit"></p>
+					</div>
+					<!-- QUESTION FEEDBACK -->
+					<div class="qs-feedback">
+						<div class="qs-right">
+                        <p><span class="glyphicon glyphicon-ok"></span> Correct</p>
+						</div>
+						<div class="qs-wrong">
+                        <p><span class="glyphicon glyphicon-remove"></span> Incorrect</p>
+						</div>
+						<div class="qs-generic">
+							<p>Records that are subject to an Access to Information request, regardless of their transitory nature, must not be destroyed, modified, or deleted, and must be provided to the requester.</p>
+						</div>
+					</div>
+				</fieldset>
+			</div><!--end question-->
+
+			<!--start question-->
+			<div class="qs-question" id="a1e1q12">
+				<fieldset>
+					<!-- QUESTION MAIN TEXT -->
+					<div class="qs-text">
+						<legend><h2>Question&nbsp;12</h2></legend>
+						<h3>Your organization's communication team sends out an email to all employees containing the latest newsletter related to changes in the organizational governance structure. For the communication team, this email is an information resource of business value. True or false?</h3>
+						<p class="wb-inv">Select the correct answer.</p>
+					</div>
+					<!-- QUESTION ANSWERS -->
+					<div class="qs-answers">
+						<ul>
+							<li><input class="ra" id="q12-a" name="q12" type="radio"><label for="q12-a">True</label></li>
+							<li><input class="wa" id="q12-b" name="q12" type="radio"><label for="q12-b">False</label></li>
+						</ul>
+						<p><input class="qs-submit btn btn-default" type="button" value="Submit"></p>
+					</div>
+					<!-- QUESTION FEEDBACK -->
+					<div class="qs-feedback">
+						<div class="qs-right">
+                        <p><span class="glyphicon glyphicon-ok"></span> Correct</p>
+						</div>
+						<div class="qs-wrong">
+                        <p><span class="glyphicon glyphicon-remove"></span> Incorrect</p>
+						</div>
+						<div class="qs-generic">
+							<p>For the communication team, this is an information resource that has business value, because they are responsible for the production and distribution of the newsletter. For you, this is transitory information.</p>
+						</div>
+					</div>
+				</fieldset>
+			</div><!--end question-->
+
+			<!--start question-->
+			<div class="qs-question" id="a1e1q13">
+				<fieldset>
+					<!-- QUESTION MAIN TEXT -->
+					<div class="qs-text">
+						<legend><h2>Question&nbsp;13</h2></legend>
+						<h3>Nathalie attends a project team meeting during which she is responsible for note taking. After the meeting, Nathalie transcribes the notes electronically and shares them with her team members and the project lead. The handwritten notes in Nathalie's notebook are transitory information and may be disposed of. True or false?</h3>
+						<p class="wb-inv">Select the correct answer.</p>
+					</div>
+					<!-- QUESTION ANSWERS -->
+					<div class="qs-answers">
+						<ul>
+							<li><input class="ra" id="q13-a" name="q13" type="radio"><label for="q13-a">True</label></li>
+							<li><input class="wa" id="q13-b" name="q13" type="radio"><label for="q13-b">False</label></li>
+						</ul>
+						<p><input class="qs-submit btn btn-default" type="button" value="Submit"></p>
+					</div>
+					<!-- QUESTION FEEDBACK -->
+					<div class="qs-feedback">
+						<div class="qs-right">
+                        <p><span class="glyphicon glyphicon-ok"></span> Correct</p>
+						</div>
+						<div class="qs-wrong">
+                        <p><span class="glyphicon glyphicon-remove"></span> Incorrect</p>
+						</div>
+						<div class="qs-generic">
+							<p>This is transitory information as Nathalie has already transcribed the notes and shared them.</p>
+						</div>
+					</div>
+				</fieldset>
+			</div><!--end question-->
+
+			<!--start question-->
+			<div class="qs-question" id="a1e1q14">
+				<fieldset>
+					<!-- QUESTION MAIN TEXT -->
+					<div class="qs-text">
+						<legend><h2>Question&nbsp;14</h2></legend>
+						<h3>Which of the following information resources might have business value and therefore need to be captured in the corporate repository?</h3>
+						<p>Select the correct answer.</p>
+					</div>
+					<!-- QUESTION ANSWERS -->
+					<div class="qs-answers">
+						<ul>
+							<li><input class="wa" id="q14-a" name="q14" type="radio"><label for="q14-a">A.&nbsp;Email and instant messages</label></li>
+							<li><input class="wa" id="q14-b" name="q14" type="radio"><label for="q14-b">B.&nbsp;Web pages, including social media</label></li>
+							<li><input class="wa" id="q14-c" name="q14" type="radio"><label for="q14-c">C.&nbsp;Electronic or paper files</label></li>
+							<li><input class="ra" id="q14-d" name="q14" type="radio"><label for="q14-d">D.&nbsp;All of the above</label></li>
+							<li><input class="wa" id="q14-e" name="q14" type="radio"><label for="q14-e">E.&nbsp;A and C only</label></li>
+						</ul>
+						<p><input class="qs-submit btn btn-default" type="button" value="Submit"></p>
+					</div>
+					<!-- QUESTION FEEDBACK -->
+					<div class="qs-feedback">
+						<div class="qs-right">
+							<p><span class="glyphicon glyphicon-ok"></span> Correct</p>
+						</div>
+						<div class="qs-wrong">
+							<p><span class="glyphicon glyphicon-remove"></span> Incorrect. The correct answer is&nbsp;D.</p>
+						</div>
+						<div class="qs-generic">
+							<p>It is content, not format, that determines business value. If information, regardless of format, has business value, you need to capture it in your departmental corporate repository.</p>
+						</div>
+					</div>
+				</fieldset>
+			</div><!--end question-->
+
+			<!--start question-->
+			<div class="qs-question" id="a1e1q15">
+				<fieldset>
+					<!-- QUESTION MAIN TEXT -->
+					<div class="qs-text">
+						<legend><h2>Question&nbsp;15</h2></legend>
+						<!--<h3>Which of the following is not an example of proper email management practice?</h3>-->
+						<h3>Which of the following is an example of poor email management practice?</h3>
+						<p>Select the correct answer.</p>
+					</div>
+					<!-- QUESTION ANSWERS -->
+					<div class="qs-answers">
+						<ul>
+							<li><input class="wa" id="q15-a" name="q15" type="radio"><label for="q15-a">A.&nbsp;Delete emails containing transitory information after they are no longer of use.</label></li>
+							<li><input class="ra" id="q15-b" name="q15" type="radio"><label for="q15-b">B.&nbsp;Always send project files as attachments.</label></li>
+							<li><input class="wa" id="q15-c" name="q15" type="radio"><label for="q15-c">C.&nbsp;Create meaningful subject lines for your emails.</label></li>
+							<li><input class="wa" id="q15-d" name="q15" type="radio"><label for="q15-d">D.&nbsp;Limit the content of email messages to one topic.</label></li>
+							<li><input class="wa" id="q15-e" name="q15" type="radio"><label for="q15-e">E.&nbsp;Use a signature block in all emails related to government business.</label></li>
+						</ul>
+						<p><input class="qs-submit btn btn-default" type="button" value="Submit"></p>
+					</div>
+					<!-- QUESTION FEEDBACK -->
+					<div class="qs-feedback">
+						<div class="qs-right">
+							<p><span class="glyphicon glyphicon-ok"></span> Correct</p>
+						</div>
+						<div class="qs-wrong">
+							<p><span class="glyphicon glyphicon-remove"></span> Incorrect. The correct answer is&nbsp;B.</p>
+						</div>
+						<div class="qs-generic">
+							<p>Proper email management practice is to use links or paths to project files rather than attachments whenever possible.</p>
+						</div>
+						<input class="qs-continue btn btn-default" type="button" value="Complete the quiz">
+					</div>
+				</fieldset>
+			</div><!--end question-->
+
+			<!-- FEEDBACK POST ACTIVITY -->
+			<div class="qs-feedback-final">
+				<p>You answered <span class="qs-get-current-score"></span>&nbsp;questions out of a total of <span class="qs-get-nb-questions"></span>&nbsp;questions correctly.</p>
+				<div class="qs-final-positive-feedback qs-not-the-end">
+					<p><strong>Congratulations!</strong> You have obtained a passing mark and have successfully completed the online course "Fundamentals of Information Management".</p>
+				</div>
+				<div class="qs-final-negative-feedback qs-not-the-end">
+					<p>Please review the course content and try the final quiz again to obtain a passing mark. Good luck!</p>
+				</div>
+				<ul class="list-unstyled qs-recap-holder qs-not-the-end">
+					<li>
+						<details>
+							<summary class="wb-details">You did not answer these questions correctly</summary>
+							<div>
+								<div class="qs-recap-template"></div>
+							</div>
+						</details>
+					</li>
+				</ul>
+
+				<!-- END TESTING PERMANENTS -->
+				<!--<ul class="pagination">
+					<li>
+						<input class="qs-retry-activity btn btn-default" type="button" value="Retry the test" onclick="javascript:
+// Make recap visible in case it was hidden previously.
+$('ul.list-unstyled').addClass('view-show-block');
+">
+					</li>
+				</ul>-->
+				
+				<ul style="padding:0;" class="qs-not-the-end">
+					<li style="display:inline-block;padding-right:30px;">
+						<a href="#" onClick="$('ul.list-unstyled').addClass('view-show-block');" class="qs-retry-activity bluelink">Retry the test</a>
+					</li>
+					<li style="display:inline-block;" class="qs-final-positive-feedback">
+						<input class="btn btn-default" type="button" value="Submit final test" onclick="fTheEnd();">
+					</li>
+				</ul>
+				<div class="row qs-the-end" style="display:none;">
+					<div class="col-xs-2"><img src="content/medias/images/ico_testcompleted.png"></div>
+					<div class="col-xs-10" style="font-size:16px;font-weight:bold;padding:40px 0 0 40px;"><p>Activity completed</p></div>
+				</div>
+				
+			</div><!--end recap-->
+		</div><!--end exercise-->
+	</div><!--end activity-->
+</div>
+<script>
+	function fTheEnd(){
+		$(this).queue(function(){
+				$('.qs-not-the-end').fadeOut(500);
+				$(this).dequeue();
+			}).delay(500).queue(function(){
+				$('.qs-the-end').fadeIn(500);
+				$(this).dequeue();
+			});
+	};
+</script>
