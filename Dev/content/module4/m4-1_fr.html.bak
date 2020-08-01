@@ -36,7 +36,7 @@
 							<p><span class="glyphicon glyphicon-remove"></span> Mauvaise réponse. La bonne réponse est&nbsp;D.</p>
 						</div>
 						<div class="qs-generic">
-							<p>Lorsque vous stockez et organisez des ressources documentaires à valeur opérationnelle dans un dépôt ministériel, vous devez suivre les conventions d’appellation de votre organisation. Il sera alors facile de les récupérer et de les partager, au besoin.</p>
+							<p>Lorsque vous stockez et organisez de l’information ayant une valeur opérationnelle dans un dépôt ministériel, vous devez suivre les conventions d’appellation de votre organisation. Il sera alors facile de la récupérer et de la partager, au besoin.</p>
 						</div>
 					</div>
 				</fieldset>
@@ -48,7 +48,7 @@
 					<!-- QUESTION MAIN TEXT -->
 					<div class="qs-text">
 						<legend><h2>Question&nbsp;2</h2></legend>
-						<h3>Selon les initiatives pour un gouvernement ouvert, l’information et les données du gouvernement sont ouvertes au public, ce qui permet à la population canadienne d’avoir accès à l’information dont elle a besoin. Vrai ou faux?</h3>
+						<h3>En vertu des initiatives pour un gouvernement ouvert, toute l’information et toutes les données du gouvernement sont à la disposition du public par défaut et sans exception, ce qui permet à la population canadienne d’avoir accès à l’information dont elle a besoin. Vrai ou faux?</h3>
 						<p class="wb-inv">Choisissez la bonne réponse.</p>
 					</div>
 					<!-- QUESTION ANSWERS -->
@@ -68,7 +68,7 @@
                         	<p><span class="glyphicon glyphicon-remove"></span> Mauvaise réponse.</p>
 						</div>
 						<div class="qs-generic">
-							<p>Le gouvernement du Canada appuie la culture d’«&nbsp;ouverture par défaut&nbsp;» et s’efforce de s’assurer que l’ensemble de la population canadienne a accès à l’information dont elle a besoin. Il y a toutefois des exceptions au principe d’ouverture par défaut, notamment les renseignements personnels et les documents confidentiels du Cabinet.</p>
+							<p>Le gouvernement du Canada appuie la culture d’« ouverture par défaut » et s’efforce de s’assurer que l’ensemble de la population canadienne a accès à l’information dont elle a besoin. Il y a toutefois des exceptions au principe d’ouverture par défaut, notamment les renseignements personnels et les documents confidentiels du Cabinet.</p>
 						</div>
 					</div>
 				</fieldset>
@@ -120,7 +120,7 @@
 						<ul>
 							<li><input class="wa" id="q4-a" name="q4" type="radio"><label for="q4-a">A.&nbsp;Elle sert de preuve d’un processus décisionnel.</label></li>
 							<li><input class="ra" id="q4-b" name="q4" type="radio"><label for="q4-b">B.&nbsp;Elle est constituée d’ébauches et de copies qui ne servent qu’à titre de référence.</label></li>
-							<li><input class="wa" id="q4-c" name="q4" type="radio"><label for="q4-c">C.&nbsp;Elle comprend de l’information à valeur continue ou historique.</label></li>
+							<li><input class="wa" id="q4-c" name="q4" type="radio"><label for="q4-c">C.&nbsp;Elle comprend de l’information ayant une valeur archivistique ou historique.</label></li>
 							<li><input class="wa" id="q4-d" name="q4" type="radio"><label for="q4-d">D.&nbsp;Elle appuie les activités opérationnelles courantes de votre organisation.</label></li>
 							<li><input class="wa" id="q4-e" name="q4" type="radio"><label for="q4-e">E.&nbsp;Elle facilite la prestation de programmes et de services internes et externes.</label></li>
 						</ul>
@@ -135,7 +135,7 @@
                         	<p><span class="glyphicon glyphicon-remove"></span> Mauvaise réponse. La bonne réponse est&nbsp;B.</p>
 						</div>
 						<div class="qs-generic">
-							<p>Les ressources documentaires qui sont utilisées comme ébauches ou comme copies à titre de référence ou qui contiennent de l’information qui est utile à court terme sont éphémères.</p>
+							<p>Les ressources d’information qui sont utilisées comme ébauches ou comme copies à titre de référence ou qui contiennent de l’information qui est utile à court terme sont éphémères.</p>
 						</div>
 					</div>
 				</fieldset>
@@ -147,7 +147,7 @@
 					<!-- QUESTION MAIN TEXT -->
 					<div class="qs-text">
 						<legend><h2>Question&nbsp;5</h2></legend>
-						<h3>Vous êtes responsable de stocker toutes les ressources documentaires que vous traitez dans le dépôt ministériel approprié. Vrai ou faux?</h3>
+						<h3>Vous êtes responsable de stocker toutes les ressources d’information que vous traitez dans le dépôt ministériel approprié. Vrai ou faux?</h3>
 						<p class="wb-inv">Choisissez la bonne réponse.</p>
 					</div>
 					<!-- QUESTION ANSWERS -->
@@ -167,7 +167,7 @@
                         <p><span class="glyphicon glyphicon-remove"></span> Mauvaise réponse.</p>
 						</div>
 						<div class="qs-generic">
-							<p>Les ressources documentaires n’ont pas toutes la même importance. Vous devez conserver les ressources documentaires qui ont une valeur opérationnelle. Vous pouvez également conserver certains renseignements éphémères dans le dépôt ministériel (pour les besoins de partage ou au moment de rédiger une ébauche), mais il vous incombe de les supprimer dès que vous n’en avez plus besoin.</p>
+							<p>Les ressources d’information n’ont pas toutes la même importance. Vous devez conserver les ressources d’information qui ont une valeur opérationnelle. Vous pouvez également conserver certains renseignements éphémères dans le dépôt ministériel (pour les besoins de partage ou au moment de rédiger une ébauche), mais il vous incombe de les supprimer dès que vous n’en avez plus besoin.</p>
 						</div>
 					</div>
 				</fieldset>
@@ -179,7 +179,7 @@
 					<!-- QUESTION MAIN TEXT -->
 					<div class="qs-text">
 						<legend><h2>Question&nbsp;6</h2></legend>
-						<h3>Gabriel est membre d’un comité qui utilise un wiki interne pour travailler en collaboration et pour afficher les comptes rendus des décisions de ses réunions. Gabriel n’a pas à suivre l’étape additionnelle de stocker les comptes rendus des décisions dans GCDOCS, le dépôt ministériel désigné de son organisation. Vrai ou faux?</h3>
+						<h3>Gabriel est membre d’un comité qui utilise un wiki interne pour travailler en collaboration sur un projet. Il est responsable d’afficher les comptes rendus des décisions de ces réunions. Gabriel peut utiliser le wiki interne et n’a pas à suivre l’étape supplémentaire de stocker les comptes rendus des décisions dans GCdocs, le dépôt ministériel désigné de son organisation. Vrai ou faux?</h3>
 						<p class="wb-inv">Choisissez la bonne réponse.</p>
 					</div>
 					<!-- QUESTION ANSWERS -->
@@ -199,7 +199,7 @@
                         <p><span class="glyphicon glyphicon-remove"></span> Mauvaise réponse.</p>
 						</div>
 						<div class="qs-generic">
-							<p>Les comptes rendus des décisions de réunions sont considérés comme étant des ressources documentaires à valeur opérationnelle. Par conséquent, il faut les stocker dans un dépôt ministériel approprié. Dans ce cas&#8209;ci, il s’agit de GCDOCS. Un wiki interne n’est pas considéré comme étant un dépôt ministériel approprié.</p>
+							<p>es comptes rendus des décisions de réunions sont considérés comme étant de l’information ayant une valeur opérationnelle. Par conséquent, il faut les stocker dans un dépôt ministériel approprié. Dans ce cas, il s’agit de GCdocs. Un wiki interne n’est pas considéré comme étant un dépôt ministériel approprié.</p>
 						</div>
 					</div>
 				</fieldset>
@@ -267,7 +267,7 @@
 							<p><span class="glyphicon glyphicon-remove"></span> Mauvaise réponse. La bonne réponse est&nbsp;E.</p>
 						</div>
 						<div class="qs-generic">
-							<p>Les ébauches, les notes et les documents de travail retenus à titre de référence ne sont utilisés que pendant une période de temps limitée pour assurer l’achèvement d’une activité routinière ou la préparation de ressources documentaires à valeur opérationnelle. Par conséquent, ils sont considérés comme étant éphémères et votre organisation n’en a pas besoin.</p>
+							<p>es ébauches, les notes et les documents de travail retenus à titre de référence ne sont utilisés que pendant une période de temps limitée pour assurer l’achèvement d’une activité routinière ou la préparation d’information ayant une valeur opérationnelle. Par conséquent, ils sont considérés comme étant éphémères et votre organisation n’en a pas besoin.</p>
 						</div>
 					</div>
 				</fieldset>
@@ -279,7 +279,7 @@
 					<!-- QUESTION MAIN TEXT -->
 					<div class="qs-text">
 						<legend><h2>Question&nbsp;9</h2></legend>
-						<h3>Julie quitte son poste actuel pour une affectation de deux ans dans une autre organisation. Il incombe à un spécialiste de la gestion de l’information de faire le ménage dans les documents papier et électroniques que Julie laisse derrière elle, de les organiser et, au besoin, d’en supprimer. Vrai ou faux?</h3>
+						<h3>Julie quitte son poste actuel pour une affectation de deux ans dans une autre organisation. Il incombe à un professionnel de la gestion de l’information de faire le ménage dans les documents papier et électroniques que Julie laisse derrière elle, de les organiser et, au besoin, d’en supprimer. Vrai ou faux?</h3>
 						<p class="wb-inv">Choisissez la bonne réponse.</p>
 					</div>
 					<!-- QUESTION ANSWERS -->
@@ -299,7 +299,7 @@
                         <p><span class="glyphicon glyphicon-remove"></span> Mauvaise réponse.</p>
 						</div>
 						<div class="qs-generic">
-							<p>Lorsqu’un employé quitte son poste, temporairement ou de façon permanente, il lui incombe de respecter les politiques internes relatives à la fermeture administrative des processus opérationnels, d’organiser et de classer l’information à valeur opérationnelle de manière appropriée et de supprimer ou d’éliminer toute information éphémère.</p>
+							<p>Lorsqu’un employé quitte son poste, temporairement ou de façon permanente, il lui incombe de respecter les politiques internes relatives à la fermeture administrative des processus opérationnels, d’organiser et de classer l’information ayant une valeur opérationnelle de manière appropriée et de supprimer ou d’éliminer toute information éphémère.</p>
 						</div>
 					</div>
 				</fieldset>
@@ -311,7 +311,7 @@
 					<!-- QUESTION MAIN TEXT -->
 					<div class="qs-text">
 						<legend><h2>Question&nbsp;10</h2></legend>
-						<h3>Qu’est-ce qui détermine la valeur et l’importance d’une ressource documentaire?</h3>
+						<h3>Qu’est-ce qui détermine la valeur et l’importance d’une ressource d’information?</h3>
 						<p>Choisissez la bonne réponse.</p>
 					</div>
 					<!-- QUESTION ANSWERS -->
@@ -334,7 +334,7 @@
                         	<p><span class="glyphicon glyphicon-remove"></span> Mauvaise réponse. La bonne réponse est&nbsp;C.</p>
 						</div>
 						<div class="qs-generic">
-							<p>Il n’y a pas un type, un format ou une source qui a forcément plus d’importance que les autres. C’est le contenu d’une ressource documentaire qui permet de déterminer sa valeur et son importance.</p>
+							<p>Il n’y a pas de type, de format ou de source qui ait forcément plus d’importance que les autres. C’est le contenu d’une ressource d’information qui permet de déterminer sa valeur et son importance.</p>
 						</div>
 					</div>
 				</fieldset>
@@ -378,7 +378,7 @@
 					<!-- QUESTION MAIN TEXT -->
 					<div class="qs-text">
 						<legend><h2>Question&nbsp;12</h2></legend>
-						<h3>L’équipe de communication de votre organisation envoie à tous les employés un courriel qui contient le dernier bulletin annonçant les modifications apportées à la structure de gouvernance organisationnelle. Pour l’équipe de communication, le courriel est une ressource documentaire à valeur opérationnelle. Vrai ou faux?</h3>
+						<h3>L’équipe de communication de votre organisation envoie à tous les employés un courriel qui contient le dernier bulletin annonçant les modifications apportées à la structure de gouvernance organisationnelle. Pour l’équipe de communication, le courriel est de l’information ayant une valeur opérationnelle. Vrai ou faux?</h3>
 						<p class="wb-inv">Choisissez la bonne réponse.</p>
 					</div>
 					<!-- QUESTION ANSWERS -->
@@ -398,7 +398,7 @@
                         <p><span class="glyphicon glyphicon-remove"></span> Mauvaise réponse.</p>
 						</div>
 						<div class="qs-generic">
-							<p>Pour l’équipe de communication, il s’agit d’une ressource documentaire à valeur opérationnelle, car les membres de l’équipe sont responsables de la production et de la distribution du bulletin. Pour vous, il s’agit d’information éphémère.</p>
+							<p>Pour l’équipe de communication, il s’agit d’une information ayant une valeur opérationnelle, car les membres de l’équipe sont responsables de la production et de la distribution du bulletin. Pour vous, il s’agit d’information éphémère.</p>
 						</div>
 					</div>
 				</fieldset>
@@ -443,7 +443,7 @@
 					<div class="qs-text">
 						<legend><h2>Question&nbsp;14</h2></legend>
 						<!--<h3>Lesquelles des ressources documentaires suivantes peuvent avoir une valeur opérationnelle et, par conséquent, doivent être conservées dans le dépôt ministériel?</h3>-->
-						<h3>Parmi les ressources documentaires suivantes, lesquelles peuvent avoir une valeur opérationnelle et doivent être conservées dans le dépôt ministériel?</h3>
+						<h3>Parmi les ressources d’information suivantes, lesquelles peuvent avoir une valeur opérationnelle et doivent être conservées dans le dépôt ministériel?</h3>
 						<p>Choisissez la bonne réponse.</p>
 					</div>
 					<!-- QUESTION ANSWERS -->
@@ -487,7 +487,7 @@
 						<ul>
 							<li><input class="wa" id="q15-a" name="q15" type="radio"><label for="q15-a">A.&nbsp;Supprimer les courriels qui contiennent de l’information éphémère dès qu’ils ne sont plus utiles</label></li>
 							<li><input class="ra" id="q15-b" name="q15" type="radio"><label for="q15-b">B.&nbsp;Toujours envoyer les dossiers de projet en pièces jointes</label></li>
-							<li><input class="wa" id="q15-c" name="q15" type="radio"><label for="q15-c">C.&nbsp;Rédiger des titres significatifs dans la case «&nbsp;Objet&nbsp;» de vos courriels</label></li>
+							<li><input class="wa" id="q15-c" name="q15" type="radio"><label for="q15-c">C.&nbsp;Rédiger des titres significatifs dans la case « Objet » de vos courriels</label></li>
 							<li><input class="wa" id="q15-d" name="q15" type="radio"><label for="q15-d">D.&nbsp;Limiter le contenu des courriels à un seul sujet</label></li>
 							<li><input class="wa" id="q15-e" name="q15" type="radio"><label for="q15-e">E.&nbsp;Utiliser un bloc-signature dans tous les courriels liés aux affaires gouvernementales</label></li>
 						</ul>
