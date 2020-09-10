@@ -1,4 +1,4 @@
-@import "./_vars";
+﻿@import "./_vars";
 @import "./_launcher";
 @import "../../common/scss/utils/_utils";
 
@@ -1029,6 +1029,10 @@ a.bluelink {
 .no-details .detsum_ie_no_arrows details > summary:before {
   content: ""!important;
   font-size: 84%;
+}
+
+.text-underline{
+	text-decoration:underline;
 }
 
 /*
