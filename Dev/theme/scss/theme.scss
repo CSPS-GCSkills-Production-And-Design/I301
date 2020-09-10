@@ -389,11 +389,7 @@ POPUP
 	margin-left:-30px;
 	position:relative;
 }
-.box-duration p,.box-important p,.box-definition p,.box-information p,.box-did-you-know > *,.box-mouse p,.box-resources p{ /*ADD EXCEPTION TO XS DISP MODE*/
-	position:absolute;
-	top:40%;
-	transform: translateY(-40%);
-}
+
 .box-information {
 	background-image: url("I301/ico_information.png");
 	min-height: 75px;
