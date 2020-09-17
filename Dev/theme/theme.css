@@ -649,7 +649,8 @@ input[type="radio"] + label {
  ******************/
 #dynamic_content h1 {
   font-size: 1.5em;
-  margin: 20px 0px; }
+  margin: 20px 0px;
+  clear: both; }
 
 .list-unstyled details {
   margin: 0px;

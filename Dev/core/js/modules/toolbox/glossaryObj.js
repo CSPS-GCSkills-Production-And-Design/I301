@@ -62,7 +62,7 @@ define([
 		
 		insertInlinePopup:function(){
 			var html="";
-			var def=(Utils.lang==="en")?"Definition: ":"Définition :";
+			var def=(Utils.lang==="en")?"Definition: ":"Définition : ";
 			html+="<section id=\""+this.id+"\" class=\"mfp-hide  modal-dialog modal-content overlay-def\">";
 			html+="<header class=\"modal-header\"><h2 class=\"modal-title\">"+def+this.term+"</h2></header>";
 			html+="<div class=\"modal-body\"><div>"+this.definition+"</div></div></section>"
